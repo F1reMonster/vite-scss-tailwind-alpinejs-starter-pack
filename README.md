@@ -11,7 +11,7 @@ An optimized starter project with TailwindCSS, pre-processor SCSS, Alpinejs, and
   code .
 ```
 
-#### If you want include Aplpine.js in your js bundle, in src/js/index.js uncoment 
+#### If you want include Alpine.js in your js bundle, in src/js/index.js uncoment 
 ```javascript
 //** Imports
 import Alpine from "alpinejs";
@@ -21,4 +21,4 @@ window.Alpine = Alpine;
 Alpine.start();
 ```
 
-#### If wants use Aplpine.js from CDN do nothing 😊️
+#### If wants use Alpine.js from CDN do nothing 😊️
